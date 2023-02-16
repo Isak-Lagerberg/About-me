@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isak lagerberg
 - 👀 I’m interested in computer science aswell as coding
-- :space_invader: My main languages are Java and Python aswell as a bit of C#
+- :space_invader: My main languages are Java and Python
 - :monocle_face: I'm currently studying to become a engineer in computer science at Luleå technical university, Sweden.
 - 📫 How to reach me: isalag-1@student.ltu.se or lagerberg02@gmail.com
 
